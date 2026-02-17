@@ -1,6 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working on
 Digital and AI-driven solutions at Shree Cement Ltd, contributing to process optimization, system automation, and data-focused improvements in industrial operations.<br><br>👯 I’m looking to collaborate on<br>AI/ML projects, cybersecurity research (especially phishing & attack detection), blockchain-based applications, and full-stack web development projects.<br><br>🤝 I’m looking for help with<br>Scaling AI models for production, advanced system design, and building high-performance distributed applications.<br><br>🌱 I’m currently learning<br>PyTorch for deep learning, advanced DSA for interviews, Tailwind CSS for modern UI design, and deeper concepts in Operating Systems like concurrency & deadlocks.<br><br>💬 Ask me about<br>Java, Python, Machine Learning basics, Smart Contracts & Blockchain, Database types, or building academic + industry-ready tech projects.<br><br>⚡ Fun fact<br>I love turning complex technical topics into structured presentations, research papers, and clean, deployable projects.
 
